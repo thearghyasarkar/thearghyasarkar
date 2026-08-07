@@ -1,72 +1,130 @@
-[![](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/arghyagod-coder)
-<h1 align="center">Hi there, I'm <a" target="_blank">Arghya Sarkar</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
+<img src="assets/banner.png" alt="shell" />
 
-<h4>I am currently a student studying at DPS RPK Kolkata, enthusiastic in everything computers, physics and mathematics.</h4>
-
-<br />
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently coping with my grade 9 annual examinations. Will return to React and C soon enough.</a>.</li>
-<li>🧐 Learning about <strong>system architecture</strong>, <strong>system design</strong>, and a bit of <strong>ML/AI</strong>.</li>
-<li>🏆 Emerged as a winner in 3 Inter-School Fests</li>
-<li>🖥️ Keen Hackathonist. I have been involved in organising the All-India hackathon EconHacks Bangalore and was present in the design team.</li>
-<li>Biggest Project has been <strong><a href="https://github.com/Calinix-Team">The Calinix Project</a></strong> (no longer maintained)</li>
-<li>Executive of Development department in School Tech Club (23-24)</li> 
-<li>👨‍💻 Most of my projects are public on <a href="https://github.com/arghyagod-coder">Github</a>.</li>
-<li>💬 Ping me about <strong>linux, web dev, automation, ai, and python stuff</strong>.</li>
-<li>
-📫 Reach me through <a href="https://www.youtube.com/channel/UCyyXcHm8UswsF0cjOX6fMng">YouTube</a>,  Discord (jayrx7.) or <a href="mailto:arghyasarkar.nolan@gmail.com">Mail</a> 
-</li>
-
-</ul>
-
-<br>
-
-
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,atom,bash,bootstrap,blender,c,cpp,codepen,js,devto,bots,discord,flask,git,github,gitlab,githubactions,go,instagram,java,linux,linkedin,md,mysql,neovim,nodejs,qt,replit,sass,sqlite,stackoverflow,selenium,twitter,vercel,vim,vscode,figma)](https://skillicons.dev)
-
-
-<br>
-
-
-### Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,firebase)](https://skillicons.dev)
-
-<br>
-
-
-
-### Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=thearghyasarkar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thearghyasarkar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=html,css,php,lua,jupyter%20notebook,haskell)
-
-
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arghyagod-coder&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyagod-coder&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-
-<br>
-
-### GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thearghyasarkar&theme=dracula&title=MultiLanguage,Repositories,Stars">
- </div>
-
-### Contact Me!
-
-<a href="https://discordapp.com/users/794984520712847390">
-  <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/discord.svg">
-</a><a href="hmailto:arghyasarkar.nolan@gmail.com">
-  <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/social/gmail.svg">
- </a>
 
 <br>
+
+# arghya here.
+`@argparse`
+
+*Student · Research Explorer · Open Source Enthusiast*
+
+*"Every repository here began with a stupid question."*
+
+</div>
+
+<br>
+
+
+```bash
+Email      arghyasarkar.nolan@gmail.com
+Website    https://thearghyasarkar.vercel.app
+GitHub     @thearghyasarkar
+LinkedIn   arghya-sarkar-775731221
+Discord    @jayrx7.
+```
+
+I don't build projects because I already know how.
+
+I build them because I don't, therefore you're in tough luck if you're finding in my profile fifty "Build Your Own Xs" and "Learn Y in 30 Days" repositories.
+
+I love being clueless about my ideas from the very beginning, and explore new horizons all the time. 
+
+<div align=center>
+Internet is simply where I document those investigations.<br>
+Sometimes they become useful software. <br>
+Sometimes they fail spectacularly.<br>
+Both outcomes stay here, trust me.
+</div>
+<br><br>
+
+
+# Philosophy
+
+```bash
+$ cat ~/.philosophy
+
+because curiosity > credentials
+
+while true; do
+    study
+    read
+    learn
+    apply
+    build
+    document
+done
+
+# TODO:
+# finish at least one side project before starting three more.
+```
+
+Documentation is as valuable as work.<br> I did not set the rules,
+
+<div align=center> <br> Da Vinci did. Nikola Tesla did. <br> Darwin did. Junkers did.
+
+</div><br>
+
+And curiosity is a better long-term motivator than chasing technologies.
+
+<br>
+
+# Areas of Curiosity
+
+| Domain | Current Focus |
+|---------|---------------|
+| Artificial Intelligence | AI Agents, Neural Networks, Big Data Operability |
+| Systems | Linux, Networking, Compilers (*rusty*) |
+| Web | Next.js, Databases, APIs, and all things Claude sucks at |
+| Embedded | ESP32, XinoSENSE, PCBs (still a beginner) |
+| Mathematics | Algorithms, Statistics, Calculus |
+| Writing | Technical Documentation, Essays, Blogs, Occassional Literature |
+| Research | None, currently. |
+
+---
+
+<br>
+
+Outside the standard tech headers, I'm interested in design, photography, filmmaking, mathematics, psychology, philosophy and literature.
+
+Those subjects influence my engineering just as much as programming does.
+
+<br>
+
+
+# What's Here
+
+Not too complex, any major projects I make I'll pin them up, else for the larger part, you'll find unfinished thoughts,
+
+Half-built experiments.<br>
+    Research notes.<br>
+Design sketches.<br>
+Questions without answers.<br>
+
+That's intentional.
+<br><br>
+
+# Let's Connect
+
+I'm always happy to talk about
+
+- interesting ideas
+- strange bugs
+- open source
+- Linux
+- AI
+- research
+- software architecture
+
+If something here sparks a conversation, feel free to reach out to me by mail.
+
+---
+
+<div align="center">
+
+### Stay curious.
+
+*"The best projects start as questions."*
+
+</div>
