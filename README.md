@@ -32,7 +32,7 @@ I build them because I don't, therefore you're in tough luck if you're finding i
 I love being clueless about my ideas from the very beginning, and explore new horizons all the time. 
 
 <div align=center>
-Internet is simply where I document those investigations.<br>
+The Internet is simply where I document those investigations.<br>
 Sometimes they become useful software. <br>
 Sometimes they fail spectacularly.<br>
 Both outcomes stay here, trust me.
